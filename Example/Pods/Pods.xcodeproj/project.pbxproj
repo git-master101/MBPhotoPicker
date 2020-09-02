@@ -46,40 +46,40 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		14CAF8C00E539F3FA0BE5C821BF4210D /* en.lproj */ = {isa = PBXFileReference; includeInIndex = 1; path = en.lproj; sourceTree = "<group>"; };
-		18FA2311EE7D960122789811E486ECD6 /* MBPhotoPicker.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = MBPhotoPicker.modulemap; sourceTree = "<group>"; };
+		14CAF8C00E539F3FA0BE5C821BF4210D /* en.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; path = en.lproj; sourceTree = "<group>"; };
+		18FA2311EE7D960122789811E486ECD6 /* MBPhotoPicker.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = MBPhotoPicker.modulemap; sourceTree = "<group>"; };
 		1EDFFD632B997996E97A8E27EEFCE259 /* MBPhotoPicker-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MBPhotoPicker-umbrella.h"; sourceTree = "<group>"; };
 		26BB9F56FD013A6724AF0435E9DE962E /* Pods-MBPhotoPicker_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MBPhotoPicker_Example.release.xcconfig"; sourceTree = "<group>"; };
 		2873C8A03C64DB54286002BD0B4C900D /* MBPhotoPicker.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MBPhotoPicker.xcconfig; sourceTree = "<group>"; };
-		2EE9BD3BF8587E11B1BD9765EE1DA085 /* pt-PT.lproj */ = {isa = PBXFileReference; includeInIndex = 1; path = "pt-PT.lproj"; sourceTree = "<group>"; };
+		2EE9BD3BF8587E11B1BD9765EE1DA085 /* pt-PT.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; path = "pt-PT.lproj"; sourceTree = "<group>"; };
 		4ABA72CC1677DA9A1A6937399592C967 /* Pods-MBPhotoPicker_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MBPhotoPicker_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		4DE953083D10FACA452AD436BA051293 /* MBPhotoPicker-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MBPhotoPicker-dummy.m"; sourceTree = "<group>"; };
-		554A96789323F6413148E8817226DC75 /* es.lproj */ = {isa = PBXFileReference; includeInIndex = 1; path = es.lproj; sourceTree = "<group>"; };
+		554A96789323F6413148E8817226DC75 /* es.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; path = es.lproj; sourceTree = "<group>"; };
 		5C905278F33E7E0C4BB8830330597662 /* Pods-MBPhotoPicker_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MBPhotoPicker_Example-dummy.m"; sourceTree = "<group>"; };
 		60AD9D5E800E5E706439834CC6771E0E /* MBPhotoPicker.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = MBPhotoPicker.swift; sourceTree = "<group>"; };
 		65BD78FDB0A781E5AF41991DFB9DCD2C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		718ED8E37E54DE680646CC54991E3B60 /* ResourceBundle-Localizable-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-Localizable-Info.plist"; sourceTree = "<group>"; };
-		822317DD0C139405EC90CA60B158A281 /* Pods-MBPhotoPicker_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-MBPhotoPicker_Example.modulemap"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		822317DD0C139405EC90CA60B158A281 /* Pods-MBPhotoPicker_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-MBPhotoPicker_Example.modulemap"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		951CEC0D999A9E293AEC4F640223AF3F /* Pods-MBPhotoPicker_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MBPhotoPicker_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		A2D5ADD9ABED1BD6F984174362229581 /* de.lproj */ = {isa = PBXFileReference; includeInIndex = 1; path = de.lproj; sourceTree = "<group>"; };
+		A2D5ADD9ABED1BD6F984174362229581 /* de.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; path = de.lproj; sourceTree = "<group>"; };
 		AADBABBDE6F328764EEA64BF54D3B6A1 /* Pods-MBPhotoPicker_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MBPhotoPicker_Example-umbrella.h"; sourceTree = "<group>"; };
-		B26D8A9FE0A63179B2ACBD7284694A8A /* vi.lproj */ = {isa = PBXFileReference; includeInIndex = 1; path = vi.lproj; sourceTree = "<group>"; };
-		B3C50759307EF924E90ED40FB44BC1D5 /* pt-BR.lproj */ = {isa = PBXFileReference; includeInIndex = 1; path = "pt-BR.lproj"; sourceTree = "<group>"; };
-		C09F5F5FC34B04240EEF1E640A82A178 /* zh-Hans.lproj */ = {isa = PBXFileReference; includeInIndex = 1; path = "zh-Hans.lproj"; sourceTree = "<group>"; };
+		B26D8A9FE0A63179B2ACBD7284694A8A /* vi.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; path = vi.lproj; sourceTree = "<group>"; };
+		B3C50759307EF924E90ED40FB44BC1D5 /* pt-BR.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; path = "pt-BR.lproj"; sourceTree = "<group>"; };
+		C09F5F5FC34B04240EEF1E640A82A178 /* zh-Hans.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; path = "zh-Hans.lproj"; sourceTree = "<group>"; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		CC83E21AD987DB0A18AC5029B2D63BC5 /* ru.lproj */ = {isa = PBXFileReference; includeInIndex = 1; path = ru.lproj; sourceTree = "<group>"; };
+		CC83E21AD987DB0A18AC5029B2D63BC5 /* ru.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; path = ru.lproj; sourceTree = "<group>"; };
 		CE5118BF71DB48E513B431FDE7E0113B /* MBPhotoPicker-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MBPhotoPicker-prefix.pch"; sourceTree = "<group>"; };
 		DA43276847023E418C907683B9CAA8FF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E00DB15B2DE2F4D760ADDCF2E1F9893F /* Pods-MBPhotoPicker_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MBPhotoPicker_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E47B15FBC9F6270F46E99DD84EC0BD68 /* Pods-MBPhotoPicker_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MBPhotoPicker_Example-frameworks.sh"; sourceTree = "<group>"; };
-		E660454C4684CD960B0190490340B0D2 /* Pods_MBPhotoPicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MBPhotoPicker_Example.framework; path = "Pods-MBPhotoPicker_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E860850286A5117949FC4B85DF29875F /* fr.lproj */ = {isa = PBXFileReference; includeInIndex = 1; path = fr.lproj; sourceTree = "<group>"; };
+		E660454C4684CD960B0190490340B0D2 /* Pods_MBPhotoPicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MBPhotoPicker_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E860850286A5117949FC4B85DF29875F /* fr.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; path = fr.lproj; sourceTree = "<group>"; };
 		E98820707CEF8FC180001A309F905F7C /* Pods-MBPhotoPicker_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MBPhotoPicker_Example-resources.sh"; sourceTree = "<group>"; };
-		EBC8DBFFB3F018DAD8FD2F11E89A11DF /* MBPhotoPicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MBPhotoPicker.framework; path = MBPhotoPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		ED252720F6881B585185C195818825D7 /* zh-Hant.lproj */ = {isa = PBXFileReference; includeInIndex = 1; path = "zh-Hant.lproj"; sourceTree = "<group>"; };
-		EFEF0B4082B41F0DBC84B11D35C3F15C /* Localizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; path = Localizable.strings; sourceTree = "<group>"; };
-		F205BA45ABFE71E36E02C4722C78D6F1 /* Localizable.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Localizable.bundle; path = Localizable.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		EBC8DBFFB3F018DAD8FD2F11E89A11DF /* MBPhotoPicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MBPhotoPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED252720F6881B585185C195818825D7 /* zh-Hant.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; path = "zh-Hant.lproj"; sourceTree = "<group>"; };
+		EFEF0B4082B41F0DBC84B11D35C3F15C /* Localizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		F205BA45ABFE71E36E02C4722C78D6F1 /* Localizable.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Localizable.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,7 +155,6 @@
 			children = (
 				FBC9ADAD26F2452234034C76AD7E8915 /* Classes */,
 			);
-			name = Pod;
 			path = Pod;
 			sourceTree = "<group>";
 		};
@@ -204,7 +203,6 @@
 				C09F5F5FC34B04240EEF1E640A82A178 /* zh-Hans.lproj */,
 				ED252720F6881B585185C195818825D7 /* zh-Hant.lproj */,
 			);
-			name = Localizations;
 			path = Localizations;
 			sourceTree = "<group>";
 		};
@@ -239,7 +237,6 @@
 			children = (
 				7E2EF62A1B92184F6E5AD8AA6B5DEA9C /* Localizations */,
 			);
-			name = Pod;
 			path = Pod;
 			sourceTree = "<group>";
 		};
@@ -256,7 +253,6 @@
 			children = (
 				60AD9D5E800E5E706439834CC6771E0E /* MBPhotoPicker.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -350,6 +346,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
@@ -616,7 +613,7 @@
 				PRODUCT_NAME = MBPhotoPicker;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -666,7 +663,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
