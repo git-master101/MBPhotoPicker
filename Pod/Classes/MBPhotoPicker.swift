@@ -2,7 +2,7 @@
 //  MBPhotoPicker.swift
 //  MBPhotoPicker
 //
-//  Created by Marcin Butanowicz on 02/01/16.
+//  Created by Marcin Butanowicz on 02/01/16.ios
 //  Copyright © 2016 MBSSoftware. All rights reserved.
 //
 
